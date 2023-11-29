@@ -35,11 +35,11 @@ code {
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
   margin: 1px;
+  border-radius: 5px;
 }
 
 .heading {
   text-align: center;
   margin-top: 0;
-
   font-family: "Tilt Neon", sans-serif;
 }
